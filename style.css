@@ -1,0 +1,16 @@
+.container {
+
+      font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+      color: red;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      height: 100px;
+      
+    }
+#keycode{
+  width: 250px;
+  background-color: dimgray;
+  color: white;
+}
